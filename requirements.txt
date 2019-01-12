@@ -11,7 +11,7 @@ docker-pycreds==0.2.1
 github3.py==0.9.6
 gunicorn==19.7.1
 idna==2.5
-kombu==4.0.2
+kombu==4.2.2.post1
 launchpadlib==1.10.6
 psycopg2==2.7.1
 python-logstash==0.4.6
